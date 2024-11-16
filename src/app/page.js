@@ -4,6 +4,7 @@ import Features from "@/components/Features";
 // import TechnicalImplementation from "@/components/TechnicalImplementation";
 import BusinessGrowth from "@/components/Track";
 import { HeroSection } from "@/components/Hero.section";
+import Footer from "@/components/Footer";
 
 export default function Page() {
   return (
@@ -14,6 +15,7 @@ export default function Page() {
       <Features />
       {/* <TechnicalImplementation /> */}
       <BusinessGrowth />
+      <Footer />
     </div>
   );
 }

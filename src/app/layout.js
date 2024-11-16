@@ -3,6 +3,7 @@ import "./globals.css";
 import Features from "@/components/Features";
 import TrustedBy from "@/components/TrustedBy";
 import BusinessGrowth from "../components/Track";
+import Footer from "@/components/Footer";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
