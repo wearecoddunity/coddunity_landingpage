@@ -5,6 +5,7 @@ import Features from "@/components/Features";
 import BusinessGrowth from "@/components/Track";
 import { HeroSection } from "@/components/Hero.section";
 import Footer from "@/components/Footer";
+import Contact from "@/components/Contact";
 
 export default function Page() {
   return (
@@ -15,6 +16,7 @@ export default function Page() {
       <Features />
       {/* <TechnicalImplementation /> */}
       <BusinessGrowth />
+      <Contact />
       <Footer />
     </div>
   );

@@ -26,7 +26,7 @@ const BusinessGrowth = () => {
       style={{ backgroundColor: "#fff8f4" }}
     >
       <div className="container mx-auto px-4 lg:px-8">
-        <div className="flex flex-col md:flex-row items-start justify-between max-w-6xl mx-auto">
+        <div className="flex flex-col md:flex-row text-center items-start justify-between max-w-6xl mx-auto">
           {/* Left Side (Image) */}
           <div className="md:w-[60%] flex items-center justify-center md:justify-start">
             <div className="relative w-full">

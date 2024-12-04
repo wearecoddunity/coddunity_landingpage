@@ -1,4 +1,4 @@
-// File: /Users/saniyaarora/coddunity_landingpage/src/app/layout.js
+// File: C:\Programming\CU TBI\coddunity_landingpage\src\app\layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

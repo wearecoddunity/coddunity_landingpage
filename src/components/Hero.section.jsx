@@ -12,11 +12,10 @@ export function HeroSection() {
         titleComponent={
           <div className="flex justify-center flex-col items-center gap-6">
             <h1 className="text-8xl font-semibold text-black dark:text-white">
-              YouTube Creator opinion market. <br />
+              Coddunity<br />
             </h1>
-            <p className="text-black text-xl">
-              Invest in YouTube's future. Trade creator predictions. Own
-              exclusive NFTs. <br /> Shape tomorrow's content today.
+            <p className="text-black text-2xl dark:text-white">
+            A vibrant community for coders and aspiring entrepreneurs to<br />collaborate, innovate, and turn business ideas into reality<br />through knowledge sharing and networking
             </p>
             <Button className="text-2xl h-14 px-8">Contact Us</Button>
           </div>
